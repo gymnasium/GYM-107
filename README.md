@@ -8,19 +8,18 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 **SKILLS COVERED**
 
-- Lorem
-- Ipsum
-- Dolor
+- HTML Markup
+- Using CSS as a design tool
+- Adding interactivity with JavaScript
 - And more…
 
 **THIS COURSE IS FOR**
 
-- Lorem
-- Ipsum
-- Dolor
-- And more…
+- Aspiring Front-End Developers
+- Designers
+- Creatives
 
-<!-- ### [ENROLL NOW!](http://thegymnasium.com/courses/GYM/107/0/about) -->
+### [ENROLL NOW!](http://thegymnasium.com/courses/GYM/107/0/about)
 
 ---
 
