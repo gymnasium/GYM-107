@@ -1,10 +1,10 @@
-[![Gymnasium Logo](https://cdn.rawgit.com/gymnasium/gymnasium.github.io/master/assets/GYM-logo.svg)](http://thegymnasium.com)
+[![Gymnasium Logo](https://gymnasium.github.io/cms/img/gymnasium-logo-gray.svg)](http://thegymnasium.com)
 
 # MODERN WEB DESIGN
 
 **A free online course at the [Gymnasium](http://thegymnasium.com)**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Modern Web Design will prepare you to be a front-end developer by walking you through the basics of HTML, CSS and JavaScript.
 
 **SKILLS COVERED**
 
