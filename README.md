@@ -6,12 +6,14 @@
 
 Modern Web Design will prepare you to be a front-end developer by walking you through the basics of HTML, CSS and JavaScript.
 
+**Taught by Aaron Gustafson of Microsoft**
+
 **SKILLS COVERED**
 
 - HTML Markup
 - Using CSS as a design tool
 - Adding interactivity with JavaScript
-- And more…
+- And more...
 
 **THIS COURSE IS FOR**
 
@@ -20,6 +22,10 @@ Modern Web Design will prepare you to be a front-end developer by walking you th
 - Creatives
 
 ### [ENROLL NOW!](http://thegymnasium.com/courses/GYM/107/0/about)
+
+
+### Preview
+[![Poster frame for course preview video](http://img.youtube.com/vi/v6TTlIou8UA/0.jpg)](http://www.youtube.com/watch?v=v6TTlIou8UA "Course Preview")
 
 ---
 
