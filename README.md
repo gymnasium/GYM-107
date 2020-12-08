@@ -4,24 +4,24 @@
 
 **A free online course at the [Gymnasium](http://thegymnasium.com)**
 
-Modern Web Design will prepare you to be a front-end developer by walking you through the basics of HTML, CSS and JavaScript.
+This course will prepare you to be a front-end developer by walking you through the process of building a simple, responsive website using HTML, CSS and JavaScript.
 
 **Taught by Aaron Gustafson of Microsoft**
 
-**SKILLS COVERED**
+### SKILLS COVERED
 
 - HTML Markup
 - Using CSS as a design tool
 - Adding interactivity with JavaScript
 - And more...
 
-**THIS COURSE IS FOR**
+### THIS COURSE IS FOR
 
 - Aspiring Front-End Developers
 - Designers
 - Creatives
 
-### [ENROLL NOW!](http://thegymnasium.com/courses/GYM/107/0/about)
+### [ENROLL NOW!](https://thegymnasium.com/courses/GYM/107/0/about)
 
 
 ### Preview
@@ -31,11 +31,9 @@ Modern Web Design will prepare you to be a front-end developer by walking you th
 
 ## About Gymnasium
 
-
 ### Real World Skills
 
 Gymnasium offers free online courses designed to teach creative professionals in-demand skills. We know these skills are in demand because our clients tell us what they are looking for, but can't find.
-
 
 ### Expert Instruction
 
